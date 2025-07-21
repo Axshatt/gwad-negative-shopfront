@@ -56,7 +56,7 @@ export const DomainHero = () => {
             <Button 
               size="lg" 
               variant="outline" 
-              className="text-lg px-8 py-4 border-white/30 text-white hover:bg-white/10 transition-all duration-300"
+              className="text-lg px-8 py-4 border-white text-white bg-transparent hover:bg-white hover:text-primary transition-all duration-300"
             >
               Contact Owner
             </Button>
