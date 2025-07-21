@@ -6,48 +6,48 @@ export const DomainFeatures = () => {
   const features = [
     {
       icon: Globe,
-      title: "Premium .co Extension",
-      description: "Highly sought-after .co domains are perfect for companies, brands, and startups worldwide.",
-      badge: "Popular"
+      title: "Medical Authority Domain",
+      description: "Perfect for medical institutions, research centers, and healthcare organizations studying the gwadanegative blood group.",
+      badge: "Medical"
     },
     {
       icon: Zap,
-      title: "Short & Memorable",
-      description: "Easy to type, remember, and share. Perfect for building a strong brand identity.",
-      badge: "Brandable"
+      title: "Scientific Relevance",
+      description: "Directly relates to the newly discovered rare blood group, making it highly valuable for research purposes.",
+      badge: "Research"
     },
     {
       icon: Shield,
-      title: "Clean History",
-      description: "No spam, penalties, or negative associations. Fresh start for your business.",
+      title: "Clean Medical History",
+      description: "No previous medical associations or conflicts. Perfect fresh start for official gwadanegative research.",
       badge: "Verified"
     },
     {
       icon: TrendingUp,
-      title: "SEO Potential",
-      description: "Build your search engine presence from day one with this versatile domain.",
+      title: "Future-Proof Investment",
+      description: "As research into gwadanegative blood group expands, this domain becomes increasingly valuable.",
       badge: "Growth"
     },
     {
       icon: Heart,
-      title: "Creative Potential",
-      description: "Perfect for creative agencies, photography, art, or any innovative business.",
-      badge: "Creative"
+      title: "Patient Education Hub",
+      description: "Ideal for creating resources and information for patients with the gwadanegative blood type.",
+      badge: "Education"
     },
     {
       icon: Users,
-      title: "Global Appeal",
-      description: "The .co extension is recognized worldwide and trusted by major brands.",
+      title: "Global Medical Recognition",
+      description: "The .co extension is trusted by medical organizations worldwide for official communications.",
       badge: "Trusted"
     }
   ];
 
   const badgeVariants = {
-    "Popular": "bg-primary text-primary-foreground",
-    "Brandable": "bg-trust text-trust-foreground", 
+    "Medical": "bg-primary text-primary-foreground",
+    "Research": "bg-trust text-trust-foreground", 
     "Verified": "bg-premium text-premium-foreground",
     "Growth": "bg-trust text-trust-foreground",
-    "Creative": "bg-premium text-premium-foreground",
+    "Education": "bg-premium text-premium-foreground",
     "Trusted": "bg-primary text-primary-foreground"
   };
 
@@ -56,10 +56,10 @@ export const DomainFeatures = () => {
       <div className="container mx-auto max-w-6xl">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-bold mb-4">
-            Why This Domain Stands Out
+            Perfect for Medical & Research Organizations
           </h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            More than just a web address – it's your digital foundation for success
+            The ideal domain for institutions working with the newly discovered gwadanegative blood group
           </p>
         </div>
         

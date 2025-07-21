@@ -15,7 +15,7 @@ export const DomainHero = () => {
           {/* Domain status badge */}
           <Badge variant="secondary" className="mb-4 px-4 py-2 text-sm font-medium bg-white/20 text-white border-white/30">
             <Sparkles className="w-4 h-4 mr-2" />
-            Premium Domain Available
+            Rare Blood Group Domain • Medical Premium
           </Badge>
           
           {/* Main domain display */}
@@ -24,7 +24,7 @@ export const DomainHero = () => {
               gwadanegative.co
             </h1>
             <p className="text-xl md:text-2xl text-white/90 max-w-2xl mx-auto">
-              A unique and memorable domain perfect for your next big venture
+              Perfect domain for the newly discovered rare blood group research, medical institutions, and healthcare organizations
             </p>
           </div>
           
@@ -32,15 +32,15 @@ export const DomainHero = () => {
           <div className="flex flex-wrap justify-center gap-6 text-white/90">
             <div className="flex items-center gap-2">
               <Globe className="w-5 h-5" />
-              <span>.co Extension</span>
+              <span>Medical .co Domain</span>
             </div>
             <div className="flex items-center gap-2">
               <Zap className="w-5 h-5" />
-              <span>Brandable Name</span>
+              <span>Scientific Authority</span>
             </div>
             <div className="flex items-center gap-2">
               <Sparkles className="w-5 h-5" />
-              <span>Short & Memorable</span>
+              <span>Rare Blood Group</span>
             </div>
           </div>
           
@@ -64,7 +64,7 @@ export const DomainHero = () => {
           
           {/* Price hint */}
           <p className="text-white/70 text-sm">
-            Starting at <span className="font-semibold text-white">$5,000</span> • Serious inquiries only
+            Starting at <span className="font-semibold text-white">$25,000</span> • Medical/Research institutions priority
           </p>
         </div>
       </div>

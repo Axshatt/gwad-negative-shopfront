@@ -9,7 +9,7 @@ export const Footer = () => {
           <div className="space-y-4">
             <h3 className="font-bold text-lg">gwadanegative.co</h3>
             <p className="text-muted-foreground text-sm">
-              Premium domain available for purchase. Perfect for your next business venture.
+              Medical domain for the newly discovered gwadanegative rare blood group. Perfect for research institutions and healthcare organizations.
             </p>
             <div className="flex items-center gap-2 text-sm text-trust">
               <Shield className="w-4 h-4" />
@@ -51,7 +51,7 @@ export const Footer = () => {
         </div>
         
         <div className="border-t mt-8 pt-8 text-center text-sm text-muted-foreground">
-          <p>&copy; 2024 gwadanegative.co • Domain for sale • All rights reserved</p>
+          <p>&copy; 2024 gwadanegative.co • Medical Domain for Rare Blood Group Research • All rights reserved</p>
         </div>
       </div>
     </footer>

@@ -42,10 +42,10 @@ export const ContactForm = () => {
           <div className="space-y-8">
             <div>
               <h2 className="text-3xl md:text-4xl font-bold mb-4">
-                Ready to Make gwadanegative.co Yours?
+                Secure This Medical Domain
               </h2>
               <p className="text-xl text-muted-foreground">
-                Contact us today to discuss pricing, payment plans, and secure transfer options.
+                Perfect for medical institutions, research centers, and healthcare organizations working with the gwadanegative blood group.
               </p>
             </div>
             
@@ -55,8 +55,8 @@ export const ContactForm = () => {
                   <DollarSign className="w-5 h-5 text-primary" />
                 </div>
                 <div>
-                  <h3 className="font-semibold">Competitive Pricing</h3>
-                  <p className="text-muted-foreground text-sm">Starting at $5,000 with flexible payment options</p>
+                  <h3 className="font-semibold">Medical Institution Pricing</h3>
+                  <p className="text-muted-foreground text-sm">Starting at $25,000 with flexible payment options for qualified medical organizations</p>
                 </div>
               </div>
               
@@ -143,8 +143,8 @@ export const ContactForm = () => {
                     type="number"
                     value={formData.offer}
                     onChange={handleChange}
-                    placeholder="5000"
-                    min="1000"
+                    placeholder="25000"
+                    min="10000"
                   />
                 </div>
                 
@@ -155,7 +155,7 @@ export const ContactForm = () => {
                     name="message"
                     value={formData.message}
                     onChange={handleChange}
-                    placeholder="Tell us about your plans for this domain..."
+                    placeholder="Tell us about your medical research or organization's interest in this domain..."
                     rows={4}
                   />
                 </div>
